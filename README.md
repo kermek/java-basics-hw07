@@ -19,7 +19,7 @@ This is a homework for the Java Constructors
 10. Execute tests. 
 11. Add 2 more tests for each method by adding more test data.
 
-## Temperature assignment
+## SumAverage assignment
 
 Implement methods in the SumAverage class.
 Arguments: lower bound, upper bound, and numbers array are valid integers.
