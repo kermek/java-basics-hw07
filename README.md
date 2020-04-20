@@ -1,6 +1,6 @@
 # java-basics-hw07
 
-This is a homework for the Java Constructors
+This is a homework for the Java Loops
 
 ## IntelliJ IDEA project configuration
 1. Clone this project to your local environment
