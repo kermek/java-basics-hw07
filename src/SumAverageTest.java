@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class SumAverageTest {
 
   /**
-   * Test data for lower and ipper bounds.
+   * Test data for lower and upper bounds.
    *
    * @return test data array
    */
@@ -23,7 +23,7 @@ public class SumAverageTest {
   }
 
   /**
-   * Test data for lower and ipper bounds.
+   * Test data for lower and upper bounds.
    *
    * @return test data array
    */
